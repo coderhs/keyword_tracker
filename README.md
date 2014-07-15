@@ -27,4 +27,8 @@ All the data will be stored in data.txt. To view them start the webserver using 
   * Push to the branch (git push origin my-new-feature)
   
   * Create new Pull Request
+
+-------
+
+Tweet me **@coderhs** if you find this useful or have some suggestions
   
